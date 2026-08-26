@@ -1,0 +1,28 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#101923"/>
+  <g opacity="0.18">
+    <path d="M100 0V900" stroke="white"/>
+    <path d="M300 0V900" stroke="white"/>
+    <path d="M500 0V900" stroke="white"/>
+    <path d="M700 0V900" stroke="white"/>
+    <path d="M900 0V900" stroke="white"/>
+    <path d="M1100 0V900" stroke="white"/>
+    <path d="M0 120H1200" stroke="white"/>
+    <path d="M0 300H1200" stroke="white"/>
+    <path d="M0 480H1200" stroke="white"/>
+    <path d="M0 660H1200" stroke="white"/>
+  </g>
+  <rect x="140" y="148" width="920" height="606" rx="28" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <circle cx="337" cy="321" r="118" fill="url(#paint0_radial)"/>
+  <path d="M605 250H955" stroke="#C6A46F" stroke-width="3"/>
+  <path d="M605 312H888" stroke="rgba(255,255,255,0.42)" stroke-width="3"/>
+  <path d="M605 374H814" stroke="rgba(255,255,255,0.22)" stroke-width="3"/>
+  <rect x="236" y="500" width="728" height="138" rx="20" fill="rgba(255,255,255,0.06)"/>
+  <text x="236" y="108" fill="white" fill-opacity="0.65" font-family="Manrope, sans-serif" font-size="18" letter-spacing="6">LUCEM FRAMEWORK</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(337 321) rotate(90) scale(118)">
+      <stop stop-color="#8AB6C8"/>
+      <stop offset="1" stop-color="#8AB6C8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

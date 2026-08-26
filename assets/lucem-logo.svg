@@ -1,0 +1,15 @@
+<svg width="980" height="220" viewBox="0 0 980 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="220" fill="none"/>
+  <rect x="20" y="28" width="162" height="162" rx="42" fill="url(#paint0_linear)"/>
+  <path d="M70 70V148H128" stroke="#09111A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 70V148H154" stroke="#09111A" stroke-opacity="0.7" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 176H150" stroke="#09111A" stroke-opacity="0.28" stroke-width="4" stroke-linecap="round"/>
+  <text x="224" y="106" fill="#F7F3EE" font-family="Fraunces, Georgia, serif" font-size="76" font-weight="600" letter-spacing="-2.5">Lucem</text>
+  <text x="228" y="150" fill="#C8AE83" font-family="Manrope, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="8.5">PRIVATE SERVICES</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="36" y1="36" x2="178" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7CFA2"/>
+      <stop offset="1" stop-color="#B38448"/>
+    </linearGradient>
+  </defs>
+</svg>
